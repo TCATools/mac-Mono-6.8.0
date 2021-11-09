@@ -1,0 +1,4 @@
+g_module_open() failed for /Library/Frameworks/Mono.framework/Versions/6.8.0/lib/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so: dlopen(/Library/Frameworks/Mono.framework/Versions/6.8.0/lib/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so, 10): Symbol not found: _OBJC_CLASS_$_NSFont
+  Referenced from: /Library/Frameworks/Mono.framework/Versions/6.8.0/lib/libpangocairo-1.0.0.dylib
+  Expected in: flat namespace
+ in /Library/Frameworks/Mono.framework/Versions/6.8.0/lib/libpangocairo-1.0.0.dylib
